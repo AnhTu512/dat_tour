@@ -1,0 +1,150 @@
+D:\TourDL\Model\bin\Debug\Model.dll.config
+D:\TourDL\Model\bin\Debug\Model.dll
+D:\TourDL\Model\bin\Debug\Model.pdb
+D:\TourDL\Model\bin\Debug\System.Data.Common.dll
+D:\TourDL\Model\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\TourDL\Model\bin\Debug\System.Diagnostics.Tracing.dll
+D:\TourDL\Model\bin\Debug\System.Globalization.Extensions.dll
+D:\TourDL\Model\bin\Debug\System.IO.Compression.dll
+D:\TourDL\Model\bin\Debug\System.Net.Http.dll
+D:\TourDL\Model\bin\Debug\System.Net.Sockets.dll
+D:\TourDL\Model\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\TourDL\Model\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\TourDL\Model\bin\Debug\System.Security.SecureString.dll
+D:\TourDL\Model\bin\Debug\System.Threading.Overlapped.dll
+D:\TourDL\Model\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\TourDL\Model\bin\Debug\EntityFramework.dll
+D:\TourDL\Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\TourDL\Model\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\TourDL\Model\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\TourDL\Model\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\TourDL\Model\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\TourDL\Model\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\TourDL\Model\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\TourDL\Model\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\TourDL\Model\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\TourDL\Model\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\TourDL\Model\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\TourDL\Model\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\TourDL\Model\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\TourDL\Model\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\TourDL\Model\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\TourDL\Model\bin\Debug\Microsoft.Extensions.Options.dll
+D:\TourDL\Model\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\TourDL\Model\bin\Debug\PagedList.dll
+D:\TourDL\Model\bin\Debug\PagedList.Mvc.dll
+D:\TourDL\Model\bin\Debug\System.Buffers.dll
+D:\TourDL\Model\bin\Debug\System.Collections.Immutable.dll
+D:\TourDL\Model\bin\Debug\System.ComponentModel.Annotations.dll
+D:\TourDL\Model\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\TourDL\Model\bin\Debug\System.Memory.dll
+D:\TourDL\Model\bin\Debug\System.Numerics.Vectors.dll
+D:\TourDL\Model\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\TourDL\Model\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\TourDL\Model\bin\Debug\EntityFramework.xml
+D:\TourDL\Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\TourDL\Model\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\TourDL\Model\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\TourDL\Model\bin\Debug\Microsoft.EntityFrameworkCore.xml
+D:\TourDL\Model\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\TourDL\Model\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+D:\TourDL\Model\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\TourDL\Model\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\TourDL\Model\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\TourDL\Model\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\TourDL\Model\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\TourDL\Model\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\TourDL\Model\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\TourDL\Model\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\TourDL\Model\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\TourDL\Model\bin\Debug\Microsoft.Extensions.Options.xml
+D:\TourDL\Model\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\TourDL\Model\bin\Debug\PagedList.xml
+D:\TourDL\Model\bin\Debug\PagedList.Mvc.xml
+D:\TourDL\Model\bin\Debug\System.Buffers.xml
+D:\TourDL\Model\bin\Debug\System.Collections.Immutable.xml
+D:\TourDL\Model\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\TourDL\Model\bin\Debug\System.Memory.xml
+D:\TourDL\Model\bin\Debug\System.Numerics.Vectors.xml
+D:\TourDL\Model\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\TourDL\Model\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\TourDL\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\TourDL\Model\obj\Debug\Model.csproj.CopyComplete
+D:\TourDL\Model\obj\Debug\Model.dll
+D:\TourDL\Model\obj\Debug\Model.pdb
+D:\TourDL\Model\obj\Debug\Model.csprojAssemblyReference.cache
+D:\download chrome\TourDL\TourDL\Model\bin\Debug\Model.dll.config
+D:\download chrome\TourDL\TourDL\Model\bin\Debug\Model.dll
+D:\download chrome\TourDL\TourDL\Model\bin\Debug\Model.pdb
+D:\download chrome\TourDL\TourDL\Model\bin\Debug\System.Data.Common.dll
+D:\download chrome\TourDL\TourDL\Model\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\download chrome\TourDL\TourDL\Model\bin\Debug\System.Diagnostics.Tracing.dll
+D:\download chrome\TourDL\TourDL\Model\bin\Debug\System.Globalization.Extensions.dll
+D:\download chrome\TourDL\TourDL\Model\bin\Debug\System.IO.Compression.dll
+D:\download chrome\TourDL\TourDL\Model\bin\Debug\System.Net.Http.dll
+D:\download chrome\TourDL\TourDL\Model\bin\Debug\System.Net.Sockets.dll
+D:\download chrome\TourDL\TourDL\Model\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\download chrome\TourDL\TourDL\Model\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\download chrome\TourDL\TourDL\Model\bin\Debug\System.Security.SecureString.dll
+D:\download chrome\TourDL\TourDL\Model\bin\Debug\System.Threading.Overlapped.dll
+D:\download chrome\TourDL\TourDL\Model\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\download chrome\TourDL\TourDL\Model\bin\Debug\EntityFramework.dll
+D:\download chrome\TourDL\TourDL\Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\download chrome\TourDL\TourDL\Model\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\download chrome\TourDL\TourDL\Model\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\download chrome\TourDL\TourDL\Model\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\download chrome\TourDL\TourDL\Model\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\download chrome\TourDL\TourDL\Model\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\download chrome\TourDL\TourDL\Model\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\download chrome\TourDL\TourDL\Model\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\download chrome\TourDL\TourDL\Model\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\download chrome\TourDL\TourDL\Model\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\download chrome\TourDL\TourDL\Model\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\download chrome\TourDL\TourDL\Model\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\download chrome\TourDL\TourDL\Model\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\download chrome\TourDL\TourDL\Model\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\download chrome\TourDL\TourDL\Model\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\download chrome\TourDL\TourDL\Model\bin\Debug\Microsoft.Extensions.Options.dll
+D:\download chrome\TourDL\TourDL\Model\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\download chrome\TourDL\TourDL\Model\bin\Debug\PagedList.dll
+D:\download chrome\TourDL\TourDL\Model\bin\Debug\PagedList.Mvc.dll
+D:\download chrome\TourDL\TourDL\Model\bin\Debug\System.Buffers.dll
+D:\download chrome\TourDL\TourDL\Model\bin\Debug\System.Collections.Immutable.dll
+D:\download chrome\TourDL\TourDL\Model\bin\Debug\System.ComponentModel.Annotations.dll
+D:\download chrome\TourDL\TourDL\Model\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\download chrome\TourDL\TourDL\Model\bin\Debug\System.Memory.dll
+D:\download chrome\TourDL\TourDL\Model\bin\Debug\System.Numerics.Vectors.dll
+D:\download chrome\TourDL\TourDL\Model\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\download chrome\TourDL\TourDL\Model\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\download chrome\TourDL\TourDL\Model\bin\Debug\EntityFramework.xml
+D:\download chrome\TourDL\TourDL\Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\download chrome\TourDL\TourDL\Model\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\download chrome\TourDL\TourDL\Model\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\download chrome\TourDL\TourDL\Model\bin\Debug\Microsoft.EntityFrameworkCore.xml
+D:\download chrome\TourDL\TourDL\Model\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\download chrome\TourDL\TourDL\Model\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+D:\download chrome\TourDL\TourDL\Model\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\download chrome\TourDL\TourDL\Model\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\download chrome\TourDL\TourDL\Model\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\download chrome\TourDL\TourDL\Model\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\download chrome\TourDL\TourDL\Model\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\download chrome\TourDL\TourDL\Model\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\download chrome\TourDL\TourDL\Model\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\download chrome\TourDL\TourDL\Model\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\download chrome\TourDL\TourDL\Model\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\download chrome\TourDL\TourDL\Model\bin\Debug\Microsoft.Extensions.Options.xml
+D:\download chrome\TourDL\TourDL\Model\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\download chrome\TourDL\TourDL\Model\bin\Debug\PagedList.xml
+D:\download chrome\TourDL\TourDL\Model\bin\Debug\PagedList.Mvc.xml
+D:\download chrome\TourDL\TourDL\Model\bin\Debug\System.Buffers.xml
+D:\download chrome\TourDL\TourDL\Model\bin\Debug\System.Collections.Immutable.xml
+D:\download chrome\TourDL\TourDL\Model\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\download chrome\TourDL\TourDL\Model\bin\Debug\System.Memory.xml
+D:\download chrome\TourDL\TourDL\Model\bin\Debug\System.Numerics.Vectors.xml
+D:\download chrome\TourDL\TourDL\Model\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\download chrome\TourDL\TourDL\Model\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\download chrome\TourDL\TourDL\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\download chrome\TourDL\TourDL\Model\obj\Debug\Model.csproj.CopyComplete
+D:\download chrome\TourDL\TourDL\Model\obj\Debug\Model.dll
+D:\download chrome\TourDL\TourDL\Model\obj\Debug\Model.pdb
+D:\download chrome\TourDL\TourDL\Model\obj\Debug\Model.csprojAssemblyReference.cache

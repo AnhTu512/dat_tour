@@ -1,0 +1,300 @@
+D:\TourDL\TourDL\bin\TourDL.dll.config
+D:\TourDL\TourDL\bin\TourDL.dll
+D:\TourDL\TourDL\bin\TourDL.pdb
+D:\TourDL\TourDL\bin\roslyn\csc.exe
+D:\TourDL\TourDL\bin\roslyn\csc.exe.config
+D:\TourDL\TourDL\bin\roslyn\csc.rsp
+D:\TourDL\TourDL\bin\roslyn\csi.exe
+D:\TourDL\TourDL\bin\roslyn\csi.exe.config
+D:\TourDL\TourDL\bin\roslyn\csi.rsp
+D:\TourDL\TourDL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\TourDL\TourDL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\TourDL\TourDL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\TourDL\TourDL\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\TourDL\TourDL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\TourDL\TourDL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\TourDL\TourDL\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\TourDL\TourDL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\TourDL\TourDL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\TourDL\TourDL\bin\roslyn\Microsoft.Managed.Core.targets
+D:\TourDL\TourDL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\TourDL\TourDL\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\TourDL\TourDL\bin\roslyn\System.AppContext.dll
+D:\TourDL\TourDL\bin\roslyn\System.Collections.Immutable.dll
+D:\TourDL\TourDL\bin\roslyn\System.Console.dll
+D:\TourDL\TourDL\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\TourDL\TourDL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\TourDL\TourDL\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\TourDL\TourDL\bin\roslyn\System.Globalization.Calendars.dll
+D:\TourDL\TourDL\bin\roslyn\System.IO.Compression.dll
+D:\TourDL\TourDL\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\TourDL\TourDL\bin\roslyn\System.IO.FileSystem.dll
+D:\TourDL\TourDL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\TourDL\TourDL\bin\roslyn\System.Net.Http.dll
+D:\TourDL\TourDL\bin\roslyn\System.Net.Sockets.dll
+D:\TourDL\TourDL\bin\roslyn\System.Reflection.Metadata.dll
+D:\TourDL\TourDL\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\TourDL\TourDL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\TourDL\TourDL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\TourDL\TourDL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\TourDL\TourDL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\TourDL\TourDL\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\TourDL\TourDL\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\TourDL\TourDL\bin\roslyn\System.ValueTuple.dll
+D:\TourDL\TourDL\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\TourDL\TourDL\bin\roslyn\System.Xml.XmlDocument.dll
+D:\TourDL\TourDL\bin\roslyn\System.Xml.XPath.dll
+D:\TourDL\TourDL\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\TourDL\TourDL\bin\roslyn\vbc.exe
+D:\TourDL\TourDL\bin\roslyn\vbc.exe.config
+D:\TourDL\TourDL\bin\roslyn\vbc.rsp
+D:\TourDL\TourDL\bin\roslyn\VBCSCompiler.exe
+D:\TourDL\TourDL\bin\roslyn\VBCSCompiler.exe.config
+D:\TourDL\TourDL\bin\System.Data.Common.dll
+D:\TourDL\TourDL\bin\System.Diagnostics.StackTrace.dll
+D:\TourDL\TourDL\bin\System.Diagnostics.Tracing.dll
+D:\TourDL\TourDL\bin\System.Globalization.Extensions.dll
+D:\TourDL\TourDL\bin\System.IO.Compression.dll
+D:\TourDL\TourDL\bin\System.Net.Http.dll
+D:\TourDL\TourDL\bin\System.Net.Sockets.dll
+D:\TourDL\TourDL\bin\System.Runtime.Serialization.Primitives.dll
+D:\TourDL\TourDL\bin\System.Security.Cryptography.Algorithms.dll
+D:\TourDL\TourDL\bin\System.Security.SecureString.dll
+D:\TourDL\TourDL\bin\System.Threading.Overlapped.dll
+D:\TourDL\TourDL\bin\System.Xml.XPath.XDocument.dll
+D:\TourDL\TourDL\bin\Antlr3.Runtime.dll
+D:\TourDL\TourDL\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\TourDL\TourDL\bin\Microsoft.Bcl.HashCode.dll
+D:\TourDL\TourDL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\TourDL\TourDL\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\TourDL\TourDL\bin\Microsoft.EntityFrameworkCore.dll
+D:\TourDL\TourDL\bin\Microsoft.EntityFrameworkCore.Relational.dll
+D:\TourDL\TourDL\bin\Microsoft.Extensions.Caching.Abstractions.dll
+D:\TourDL\TourDL\bin\Microsoft.Extensions.Caching.Memory.dll
+D:\TourDL\TourDL\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\TourDL\TourDL\bin\Microsoft.Extensions.Configuration.Binder.dll
+D:\TourDL\TourDL\bin\Microsoft.Extensions.Configuration.dll
+D:\TourDL\TourDL\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\TourDL\TourDL\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\TourDL\TourDL\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\TourDL\TourDL\bin\Microsoft.Extensions.Logging.dll
+D:\TourDL\TourDL\bin\Microsoft.Extensions.Options.dll
+D:\TourDL\TourDL\bin\Microsoft.Extensions.Primitives.dll
+D:\TourDL\TourDL\bin\Microsoft.Web.Infrastructure.dll
+D:\TourDL\TourDL\bin\Model.dll
+D:\TourDL\TourDL\bin\Newtonsoft.Json.dll
+D:\TourDL\TourDL\bin\PagedList.dll
+D:\TourDL\TourDL\bin\PagedList.Mvc.dll
+D:\TourDL\TourDL\bin\System.Buffers.dll
+D:\TourDL\TourDL\bin\System.Collections.Immutable.dll
+D:\TourDL\TourDL\bin\System.ComponentModel.Annotations.dll
+D:\TourDL\TourDL\bin\System.Diagnostics.DiagnosticSource.dll
+D:\TourDL\TourDL\bin\System.Memory.dll
+D:\TourDL\TourDL\bin\System.Numerics.Vectors.dll
+D:\TourDL\TourDL\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\TourDL\TourDL\bin\System.Threading.Tasks.Extensions.dll
+D:\TourDL\TourDL\bin\System.Web.Helpers.dll
+D:\TourDL\TourDL\bin\System.Web.Mvc.dll
+D:\TourDL\TourDL\bin\System.Web.Optimization.dll
+D:\TourDL\TourDL\bin\System.Web.Razor.dll
+D:\TourDL\TourDL\bin\System.Web.WebPages.Deployment.dll
+D:\TourDL\TourDL\bin\System.Web.WebPages.dll
+D:\TourDL\TourDL\bin\System.Web.WebPages.Razor.dll
+D:\TourDL\TourDL\bin\WebGrease.dll
+D:\TourDL\TourDL\bin\EntityFramework.dll
+D:\TourDL\TourDL\bin\Model.pdb
+D:\TourDL\TourDL\bin\Model.dll.config
+D:\TourDL\TourDL\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\TourDL\TourDL\bin\Microsoft.Bcl.HashCode.xml
+D:\TourDL\TourDL\bin\Microsoft.EntityFrameworkCore.xml
+D:\TourDL\TourDL\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\TourDL\TourDL\bin\Microsoft.EntityFrameworkCore.Relational.xml
+D:\TourDL\TourDL\bin\Microsoft.Extensions.Caching.Abstractions.xml
+D:\TourDL\TourDL\bin\Microsoft.Extensions.Caching.Memory.xml
+D:\TourDL\TourDL\bin\Microsoft.Extensions.Configuration.xml
+D:\TourDL\TourDL\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\TourDL\TourDL\bin\Microsoft.Extensions.Configuration.Binder.xml
+D:\TourDL\TourDL\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\TourDL\TourDL\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\TourDL\TourDL\bin\Microsoft.Extensions.Logging.xml
+D:\TourDL\TourDL\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\TourDL\TourDL\bin\Microsoft.Extensions.Options.xml
+D:\TourDL\TourDL\bin\Microsoft.Extensions.Primitives.xml
+D:\TourDL\TourDL\bin\PagedList.xml
+D:\TourDL\TourDL\bin\PagedList.Mvc.xml
+D:\TourDL\TourDL\bin\System.Buffers.xml
+D:\TourDL\TourDL\bin\System.Collections.Immutable.xml
+D:\TourDL\TourDL\bin\System.Diagnostics.DiagnosticSource.xml
+D:\TourDL\TourDL\bin\System.Memory.xml
+D:\TourDL\TourDL\bin\System.Numerics.Vectors.xml
+D:\TourDL\TourDL\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\TourDL\TourDL\bin\System.Threading.Tasks.Extensions.xml
+D:\TourDL\TourDL\bin\System.Web.Helpers.xml
+D:\TourDL\TourDL\bin\System.Web.Mvc.xml
+D:\TourDL\TourDL\bin\System.Web.Optimization.xml
+D:\TourDL\TourDL\bin\System.Web.Razor.xml
+D:\TourDL\TourDL\bin\System.Web.WebPages.xml
+D:\TourDL\TourDL\bin\System.Web.WebPages.Deployment.xml
+D:\TourDL\TourDL\bin\System.Web.WebPages.Razor.xml
+D:\TourDL\TourDL\bin\Newtonsoft.Json.xml
+D:\TourDL\TourDL\bin\Antlr3.Runtime.pdb
+D:\TourDL\TourDL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\TourDL\TourDL\bin\EntityFramework.xml
+D:\TourDL\TourDL\obj\Debug\TourDL.csprojAssemblyReference.cache
+D:\TourDL\TourDL\obj\Debug\TourDL.csproj.CoreCompileInputs.cache
+D:\TourDL\TourDL\obj\Debug\TourDL.csproj.CopyComplete
+D:\TourDL\TourDL\obj\Debug\TourDL.dll
+D:\TourDL\TourDL\obj\Debug\TourDL.pdb
+D:\TourDL\TourDL\bin\EntityFramework.SqlServer.dll
+D:\TourDL\TourDL\bin\EntityFramework.SqlServer.xml
+D:\download chrome\TourDL\TourDL\TourDL\obj\Debug\TourDL.csprojAssemblyReference.cache
+D:\download chrome\TourDL\TourDL\TourDL\obj\Debug\TourDL.csproj.CoreCompileInputs.cache
+D:\download chrome\TourDL\TourDL\TourDL\obj\Debug\TourDL.dll
+D:\download chrome\TourDL\TourDL\TourDL\obj\Debug\TourDL.pdb
+D:\download chrome\TourDL\TourDL\TourDL\bin\TourDL.dll.config
+D:\download chrome\TourDL\TourDL\TourDL\bin\TourDL.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\TourDL.pdb
+D:\download chrome\TourDL\TourDL\TourDL\bin\roslyn\csc.exe
+D:\download chrome\TourDL\TourDL\TourDL\bin\roslyn\csc.exe.config
+D:\download chrome\TourDL\TourDL\TourDL\bin\roslyn\csc.rsp
+D:\download chrome\TourDL\TourDL\TourDL\bin\roslyn\csi.exe
+D:\download chrome\TourDL\TourDL\TourDL\bin\roslyn\csi.exe.config
+D:\download chrome\TourDL\TourDL\TourDL\bin\roslyn\csi.rsp
+D:\download chrome\TourDL\TourDL\TourDL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\download chrome\TourDL\TourDL\TourDL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\roslyn\Microsoft.Managed.Core.targets
+D:\download chrome\TourDL\TourDL\TourDL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\download chrome\TourDL\TourDL\TourDL\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\roslyn\System.AppContext.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\roslyn\System.Collections.Immutable.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\roslyn\System.Console.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\roslyn\System.Globalization.Calendars.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\roslyn\System.IO.Compression.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\roslyn\System.IO.FileSystem.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\roslyn\System.Net.Http.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\roslyn\System.Net.Sockets.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\roslyn\System.Reflection.Metadata.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\roslyn\System.ValueTuple.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\roslyn\System.Xml.XmlDocument.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\roslyn\System.Xml.XPath.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\roslyn\vbc.exe
+D:\download chrome\TourDL\TourDL\TourDL\bin\roslyn\vbc.exe.config
+D:\download chrome\TourDL\TourDL\TourDL\bin\roslyn\vbc.rsp
+D:\download chrome\TourDL\TourDL\TourDL\bin\roslyn\VBCSCompiler.exe
+D:\download chrome\TourDL\TourDL\TourDL\bin\roslyn\VBCSCompiler.exe.config
+D:\download chrome\TourDL\TourDL\TourDL\bin\System.Data.Common.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\System.Diagnostics.StackTrace.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\System.Diagnostics.Tracing.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\System.Globalization.Extensions.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\System.IO.Compression.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\System.Net.Http.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\System.Net.Sockets.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\System.Runtime.Serialization.Primitives.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\System.Security.Cryptography.Algorithms.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\System.Security.SecureString.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\System.Threading.Overlapped.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\System.Xml.XPath.XDocument.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\Antlr3.Runtime.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\EntityFramework.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\EntityFramework.SqlServer.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\Microsoft.Bcl.HashCode.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\Microsoft.EntityFrameworkCore.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\Microsoft.EntityFrameworkCore.Relational.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\Microsoft.Extensions.Caching.Abstractions.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\Microsoft.Extensions.Caching.Memory.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\Microsoft.Extensions.Configuration.Binder.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\Microsoft.Extensions.Configuration.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\Microsoft.Extensions.Logging.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\Microsoft.Extensions.Options.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\Microsoft.Extensions.Primitives.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\Microsoft.Web.Infrastructure.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\Model.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\Newtonsoft.Json.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\PagedList.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\PagedList.Mvc.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\System.Buffers.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\System.Collections.Immutable.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\System.ComponentModel.Annotations.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\System.Diagnostics.DiagnosticSource.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\System.Memory.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\System.Numerics.Vectors.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\System.Threading.Tasks.Extensions.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\System.Web.Helpers.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\System.Web.Mvc.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\System.Web.Optimization.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\System.Web.Razor.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\System.Web.WebPages.Deployment.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\System.Web.WebPages.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\System.Web.WebPages.Razor.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\WebGrease.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\Model.pdb
+D:\download chrome\TourDL\TourDL\TourDL\bin\Model.dll.config
+D:\download chrome\TourDL\TourDL\TourDL\bin\EntityFramework.xml
+D:\download chrome\TourDL\TourDL\TourDL\bin\EntityFramework.SqlServer.xml
+D:\download chrome\TourDL\TourDL\TourDL\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\download chrome\TourDL\TourDL\TourDL\bin\Microsoft.Bcl.HashCode.xml
+D:\download chrome\TourDL\TourDL\TourDL\bin\Microsoft.EntityFrameworkCore.xml
+D:\download chrome\TourDL\TourDL\TourDL\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\download chrome\TourDL\TourDL\TourDL\bin\Microsoft.EntityFrameworkCore.Relational.xml
+D:\download chrome\TourDL\TourDL\TourDL\bin\Microsoft.Extensions.Caching.Abstractions.xml
+D:\download chrome\TourDL\TourDL\TourDL\bin\Microsoft.Extensions.Caching.Memory.xml
+D:\download chrome\TourDL\TourDL\TourDL\bin\Microsoft.Extensions.Configuration.xml
+D:\download chrome\TourDL\TourDL\TourDL\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\download chrome\TourDL\TourDL\TourDL\bin\Microsoft.Extensions.Configuration.Binder.xml
+D:\download chrome\TourDL\TourDL\TourDL\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\download chrome\TourDL\TourDL\TourDL\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\download chrome\TourDL\TourDL\TourDL\bin\Microsoft.Extensions.Logging.xml
+D:\download chrome\TourDL\TourDL\TourDL\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\download chrome\TourDL\TourDL\TourDL\bin\Microsoft.Extensions.Options.xml
+D:\download chrome\TourDL\TourDL\TourDL\bin\Microsoft.Extensions.Primitives.xml
+D:\download chrome\TourDL\TourDL\TourDL\bin\PagedList.xml
+D:\download chrome\TourDL\TourDL\TourDL\bin\PagedList.Mvc.xml
+D:\download chrome\TourDL\TourDL\TourDL\bin\System.Buffers.xml
+D:\download chrome\TourDL\TourDL\TourDL\bin\System.Collections.Immutable.xml
+D:\download chrome\TourDL\TourDL\TourDL\bin\System.Diagnostics.DiagnosticSource.xml
+D:\download chrome\TourDL\TourDL\TourDL\bin\System.Memory.xml
+D:\download chrome\TourDL\TourDL\TourDL\bin\System.Numerics.Vectors.xml
+D:\download chrome\TourDL\TourDL\TourDL\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\download chrome\TourDL\TourDL\TourDL\bin\System.Threading.Tasks.Extensions.xml
+D:\download chrome\TourDL\TourDL\TourDL\bin\System.Web.Helpers.xml
+D:\download chrome\TourDL\TourDL\TourDL\bin\System.Web.Mvc.xml
+D:\download chrome\TourDL\TourDL\TourDL\bin\System.Web.Optimization.xml
+D:\download chrome\TourDL\TourDL\TourDL\bin\System.Web.Razor.xml
+D:\download chrome\TourDL\TourDL\TourDL\bin\System.Web.WebPages.xml
+D:\download chrome\TourDL\TourDL\TourDL\bin\System.Web.WebPages.Deployment.xml
+D:\download chrome\TourDL\TourDL\TourDL\bin\System.Web.WebPages.Razor.xml
+D:\download chrome\TourDL\TourDL\TourDL\bin\Newtonsoft.Json.xml
+D:\download chrome\TourDL\TourDL\TourDL\bin\Antlr3.Runtime.pdb
+D:\download chrome\TourDL\TourDL\TourDL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\download chrome\TourDL\TourDL\TourDL\obj\Debug\TourDL.csproj.CopyComplete
+D:\download chrome\TourDL\TourDL\TourDL\bin\CKFinder.dll
+D:\download chrome\TourDL\TourDL\TourDL\bin\CKFinder.pdb

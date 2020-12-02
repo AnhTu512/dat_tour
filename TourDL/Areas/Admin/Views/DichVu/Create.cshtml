@@ -1,0 +1,87 @@
+﻿@model Model.EF.DichVu
+
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+@section header{
+    Quản lý dịch vụ
+}
+@section jsFooter{
+    <script>
+
+        $('#btnSelectImage').on('click', function (e) {
+            e.preventDefault();
+            var finder = new CKFinder();
+            finder.selectActionFunction = function (url) {
+                $('#txtImage').val(url);
+            };
+            finder.popup();
+
+        })
+
+        var editor = CKEDITOR.replace('txtmota', {
+            customConfig: '/assets/admin/plugins/ckeditor/config.js',
+
+        });
+
+    </script>
+}
+
+<div class="row">
+    <div class="col-lg-12">
+        <div class=" panel panel-default">
+            <div class="panel-heading">
+                Nhập thông tin Dịch vụ
+            </div>
+            <div class="panel-body">
+                <div class="row">
+                        @using (Html.BeginForm("Create", "DichVu", FormMethod.Post))
+                        {
+                            @Html.AntiForgeryToken()
+                            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                            <div class="form-group">
+                                @Html.LabelFor(model => model.MaLoaiDichVu, htmlAttributes: new { @class = "control-label col-md-2" })
+                                @Html.TextBoxFor(model => model.MaLoaiDichVu, new { htmlAttributes = new { @class = "form-control" } })
+                                @Html.ValidationMessageFor(model => model.MaLoaiDichVu, "", new { @class = "text-danger" })
+                            </div>
+
+                            <div class="form-group">
+                                @Html.LabelFor(model => model.TenDichVu, htmlAttributes: new { @class = "control-label col-md-2" })
+                                @Html.TextBoxFor(model => model.TenDichVu, new { htmlAttributes = new { @class = "form-control" } })
+                                @Html.ValidationMessageFor(model => model.TenDichVu, "", new { @class = "text-danger" })
+                            </div>
+
+                            <div class="form-group">
+                                @Html.LabelFor(model => model.MoTaChiTiet, htmlAttributes: new { @class = "control-label col-md-2" })
+                                @Html.TextAreaFor(model => model.MoTaChiTiet, new { htmlAttributes = new { @class = "form-control" }, id = "txtmotachitiet" })
+                                @Html.ValidationMessageFor(model => model.MoTaChiTiet, "", new { @class = "text-danger" })
+                            </div>
+
+                            <div class="form-group">
+                                @Html.LabelFor(model => model.Images, htmlAttributes: new { @class = "control-label col-md-2" })
+                                @Html.TextBoxFor(model => model.Images, new { htmlAttributes = new { @class = "form-control" }, id = "txtImage" })
+                                <a id="btnSelectImage" href="#">Chọn ảnh</a>
+                                @Html.ValidationMessageFor(model => model.Images, "", new { @class = "text-danger" })
+                            </div>
+
+                            <div class="form-group">
+                                @Html.LabelFor(model => model.TinhTrang, htmlAttributes: new { @class = "control-label col-md-2" })
+                                @Html.TextBoxFor(model => model.TinhTrang, new { htmlAttributes = new { @class = "form-control" } })
+                                @Html.ValidationMessageFor(model => model.TinhTrang, "", new { @class = "text-danger" })
+                            </div>
+
+                            <div class="form-group">
+                                <div class="col-md-offset-2 col-md-10">
+                                    <input type="submit" value="Create" class="btn btn-default" />
+                                </div>
+                            </div>
+                        }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
